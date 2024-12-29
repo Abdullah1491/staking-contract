@@ -30,9 +30,10 @@
 - Reward Calculation: The contract calculates the rewards earned by users based on the amount they have staked. The rewards are calculated considering the annual percentage yield (APY) and the staking duration.
 
 ## IMAGES OF THE USER INTERFACE
-![image_alt](https://github.com/user-attachments/assets/e35201ad-ff51-41aa-9066-774810c34a04)
-![image_alt](https://github.com/user-attachments/assets/fd1efbe3-2ded-4c2e-8544-d9b42f2dbe18)
-![image_alt](https://github.com/user-attachments/assets/6e4c64af-6e68-439e-a94b-e1d68232e2eb)
-![image_alt](https://github.com/user-attachments/assets/8e5b605b-b591-4f14-95d3-5c4a09971106)
-![image_alt](https://github.com/user-attachments/assets/c8588618-d056-4ab1-bbc3-ba080087542c)
+![image_alt](https://github.com/user-attachments/assets/d7059e53-ed11-4441-a55a-56efc81ce538)
+![image_alt](https://github.com/user-attachments/assets/45ca4b70-2784-4447-9501-fd36e4c0a3b4)
+![image_alt](https://github.com/user-attachments/assets/23495969-4bff-4be3-80f6-224a3212f976)
+![image_alt](https://github.com/user-attachments/assets/0d306ed2-ec66-42a0-94e2-c578f3c827c7)
+![image_alt](https://github.com/user-attachments/assets/791a9a4e-12f4-43dd-a4c4-f5654cfc5592)
+
 
