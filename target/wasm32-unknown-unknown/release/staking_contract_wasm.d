@@ -1,0 +1,1 @@
+/home/abdullah/staking-contract/target/wasm32-unknown-unknown/release/staking_contract_wasm.wasm: /home/abdullah/staking-contract/src/staking_contract.rs /home/abdullah/staking-contract/wasm/src/lib.rs
